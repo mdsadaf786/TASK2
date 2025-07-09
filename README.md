@@ -22,3 +22,6 @@ Task 2: Singly Linked List – Insert, Delete & Traverse The second task is base
 3.Traversal to print the elements of the list sequentially.
 
 The code (task2.c) makes use of dynamic memory allocation through malloc() to create new nodes. It helps in understanding how memory is managed in heap space during runtime. Linked lists are widely used in operating systems, memory management, and database applications due to their flexibility and dynamic nature.
+
+#TASK2 OUTPUT : 
+<img width="524" height="211" alt="Image" src="https://github.com/user-attachments/assets/76aeac34-14f1-4360-81f4-aa283ce17e2a" />
